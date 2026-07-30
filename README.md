@@ -8,7 +8,7 @@ Zaio Cyber Security Bootcamp Student | Vanderbijlpark
 - Zaio Bootcamp tasks & learning progress
 
 ## Important Links:
-- **GitHub Portfolio**: https://github.com/pt669528hg-creator/Lloyd-Salayane-portfolio
+- **GitHub Portfolio**: https://github.com/pt669528hg-creator
 - **TryHackMe Profile**: https://tryhackme.com/p/lloydsalanyane 
 - **Linkedin**: [https://www.linkedin.com/in/lloyd-salanyane-54b527425?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - **Email**: lloyd.itumeleng@icloud.com 
