@@ -3,7 +3,7 @@ Zaio Cyber Security Bootcamp Student | Vanderbijlpark
 
 ---
 ## What you will find here:
-- MY HTMNL CV
+- MY HTML CV
 - TryHackMe room write-ups & notes (including SQL Injection)
 - Zaio Bootcamp tasks & learning progress
 
