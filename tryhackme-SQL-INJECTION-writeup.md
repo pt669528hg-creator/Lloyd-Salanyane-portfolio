@@ -8,4 +8,4 @@ Date: 20 July 2026
 - So understanding SQL helped me understand how to work through my task better even though I did not finish my task
 
   ## Steps & commands I used
-  1. 
+- 
