@@ -9,6 +9,6 @@ Zaio Cyber Security Bootcamp Student | Vanderbijlpark
 
 ## Important Links:
 - **GitHub Portfolio**: https://github.com/pt669528hg-creator/Lloyd-Salayane-portfolio
-- **TryHackMe Profile**: [lloydsalanyane[0x1][NEOPHYTE]
+- **TryHackMe Profile**: https://tryhackme.com/p/lloydsalanyane 
 - **Linkedin**: [https://www.linkedin.com/in/lloyd-salanyane-54b527425?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - **Email**: lloyd.itumeleng@icloud.com 
